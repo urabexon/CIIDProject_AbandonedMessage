@@ -1,0 +1,11 @@
+node_modules
+dist
+.env
+logs
+*.pdf
+.pnpm-store
+mise.local.toml
+database/drizzle/
+*.db
+!*dummy.db
+CLAUDE.md
