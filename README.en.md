@@ -19,7 +19,8 @@ The following questions are posed through gameplay:
 - What should we do when empathy is no longer enough?
 - Are DV or moral harassment always caused by a one-sided “villain”?
 
-All characters and scenarios are fictional. This game does not seek to generalize or stereotype.  
+All characters and scenarios are fictional.<br>
+This game does not seek to generalize or stereotype.  
 Rather, it aims to explore the "emotional gray zones" that often go unnoticed and prompt reflection on how we relate to others.
 
 ## Objectives 🎯
