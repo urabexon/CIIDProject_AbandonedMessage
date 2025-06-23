@@ -1,0 +1,13 @@
+version: '3.9'
+
+services:
+  ciid_game:
+    build:
+      context: ./src
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./src:/app
+    environment:
+      - NODE_ENV=development
