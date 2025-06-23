@@ -1,7 +1,6 @@
-version: '3.9'
-
 services:
   ciid_game:
+    platform: linux/amd64
     build:
       context: ./src
       dockerfile: Dockerfile
@@ -9,5 +8,3 @@ services:
       - "3000:3000"
     volumes:
       - ./src:/app
-    environment:
-      - NODE_ENV=development
